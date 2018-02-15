@@ -1,0 +1,11 @@
+G:\Work\StudentDatabase\StudentDatabase\bin\Debug\StudentDatabase.exe.config
+G:\Work\StudentDatabase\StudentDatabase\obj\Debug\StudentDatabase.csprojResolveAssemblyReference.cache
+G:\Work\StudentDatabase\StudentDatabase\obj\Debug\StudentDatabase.Form1.resources
+G:\Work\StudentDatabase\StudentDatabase\obj\Debug\StudentDatabase.Properties.Resources.resources
+G:\Work\StudentDatabase\StudentDatabase\obj\Debug\StudentDatabase.csproj.GenerateResource.Cache
+G:\Work\StudentDatabase\StudentDatabase\bin\Debug\StudentDatabase.exe
+G:\Work\StudentDatabase\StudentDatabase\bin\Debug\StudentDatabase.pdb
+G:\Work\StudentDatabase\StudentDatabase\obj\Debug\StudentDatabase.exe
+G:\Work\StudentDatabase\StudentDatabase\obj\Debug\StudentDatabase.pdb
+G:\Work\StudentDatabase\StudentDatabase\bin\Debug\ruet.mdf
+G:\Work\StudentDatabase\StudentDatabase\bin\Debug\ruet_log.ldf
